@@ -16,7 +16,7 @@ class Fahrkartenautomat {
 		
 		//Ticketsanzahl eingeben
 		
-		while(p == false) {
+		while(p == true) {
 		
 		System.out.println(">> Wählen Sie bitte eine Anzahl von 1 bis 10 Tickets aus << :");
 		anzahltickets = tastatur.nextDouble();
